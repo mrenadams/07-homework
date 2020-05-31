@@ -37,12 +37,7 @@ function promptUser() {
         type: "input",
         name: "install",
         message: "Provide installation details"
-      },
-      {
-        type: "input",
-        name: "description",
-        message: "Describe your  project"
-      },
+      },   
       {
         type: "input",
         name: "usage",
